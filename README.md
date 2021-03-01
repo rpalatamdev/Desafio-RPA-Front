@@ -10,7 +10,7 @@ Antes de comenzar el proyecto se realizó una investigación en donde se obtuvie
 > - Por cada segundo que demora en cargar la aplicación se reduce en 18% la posibilidad de una compra
 > - Se espera que al menos el 35% de compradores provengan de motores de búsqueda.
 
-## Indicaciones
+## Indicaciones📖
 La aplicación deberá ser desarrollada con React, haciendo uso de Redux para mantener el estado de la aplicación y de React-Router para que cada vista sea una página distinta.
 
 - Antes de comenzar a escribir el código, deberás crear unas tareas que vas a realizar durante el desarrollo.
@@ -30,7 +30,7 @@ La aplicación deberá ser desarrollada con React, haciendo uso de Redux para ma
 - Usa sintaxis de ES6+
 - No abuses del uso de librerías externas
 
-### Puntos a favor (No Obligatorios)
+### Puntos a favor (No Obligatorios)⭐
 - En el README.md de tu proyecto explica tus tomas de decisiones, como por ejemplo, porque decidiste usar determinada librería o el porqué de alguna interacción, etc. Asimismo, detalla mejoras que podrían hacerse para una siguiente versión.
 - Realiza test unitarios de tus componentes
 - Despliega tu aplicación usando [Netlify](https://www.netlify.com), [Heroku](https://www.heroku.com), [Zeit](https://zeit.co) o el que desees.
