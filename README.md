@@ -26,8 +26,8 @@ La aplicación deberá ser desarrollada con React, haciendo uso de Redux para ma
 - Elige los colores y tipografía que desees y realiza las mejoras que creas conveniente
 
 ### Recomendaciones
-- Usa el [create-react-app](https://github.com/facebook/create-react-app)
-- Usa sintaxis de ES6+
+- Usar el [create-react-app](https://github.com/facebook/create-react-app)
+- Usar sintaxis de ES6+
 - No abuses del uso de librerías externas
 
 ### Puntos a favor (No Obligatorios)⭐
