@@ -1,5 +1,5 @@
-# Desafío Frontend
-Bienvenido(a) al desafío Frontend para formar parte de RPA Latam, esperamos que lo superes y seas parte del equipo. 🔥🎉
+# Desafío Frontend💻
+Bienvenido(a) al desafío Frontend para formar parte de RPA Latam, esperamos que lo superes y seas parte del equipo. 🤜🤛🎉
 
 ## Contexto del desafio
 Hace algún tiempo se inicio un proceso de transformación digital y se han presentado varias iniciativas de proyectos, han sido tantas que requerimos de profesionales como tú para ayudarnos con algunos de ellos. Uno de los proyectos, y en el que necesitamos tu apoyo, consiste en crear una aplicación que permita a los lectores de diario suscribirse a paquetes de acceso a la versión digital de sus diarios.
